@@ -1,0 +1,35 @@
+{
+	"FALCOM_PS4": {
+		"game": "Ys_X",
+		"schema": {
+			"int1": "int",
+			"int2": "int",
+			"int3": "int",
+			"int4": "int",
+			"text1": "toffset",
+			"text2": "toffset",
+			"uarray1": "u16array",
+			"int74": "int",
+			"int75": "int",
+			"int76": "int",
+			"int81": "int",
+			"int82": "int",
+			"int83": "int",
+			"int84": "int",
+			"int85": "int",
+			"int86": "int",
+			"text3": "toffset",
+			"text4": "toffset",
+			"long13": "long",
+			"long14": "long",
+			"long15": "long",
+			"long16": "long",
+			"long17": "long",
+			"long18": "long",
+			"long19": "long",
+			"long20": "long",
+			"long21": "long",
+			"long22": "long"			
+		}
+	}
+}

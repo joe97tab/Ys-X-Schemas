@@ -1,0 +1,17 @@
+{
+	"FALCOM_PS4": {
+		"game": "Ys_X",
+		"schema": {
+			"id": "long",
+			"text1": "toffset",
+			"int1": "uint",
+			"int2": "uint",
+			"text2": "toffset",
+			"text3": "toffset",
+			"int7": "uint",
+			"int8": "uint",
+			"long50": "long"
+		}
+	}
+}
+
